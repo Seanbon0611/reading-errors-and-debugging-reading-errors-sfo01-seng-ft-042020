@@ -1,3 +1,3 @@
-"hello world"
+greeting = "hello world"
 
-helllo_world
+hello_world
